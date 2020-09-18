@@ -1,0 +1,74 @@
+    html,body {
+      height: 100%;
+      font-family: 'Fjalla One', sans-serif;
+         }
+
+    body {
+
+      -ms-flex-align: center;
+      align-items: center;
+      padding-top: 40px;
+      padding-bottom: 40px;
+      background-color: rgb(19, 19, 20);
+      ;
+    }
+
+    .font1{
+      font-family: sans-serif;
+      font-weight: bold;
+      letter-spacing: -5px;
+      position: relative;
+      top:12%;
+      left:7.5%;
+      font-size: 70px;
+    }
+
+    .form-signin {
+      position: relative;
+      top:10%;
+      left: 0%;
+      width: 100%;
+      max-width: 330px;
+      padding: 15px;
+      margin: auto;
+    }
+
+    .form-signin .checkbox {
+      font-weight: 400;
+    }
+
+    .form-signin .form-control {
+      position: relative;
+      box-sizing: border-box;
+      height: auto;
+      padding: 10px;
+      font-size: 16px;
+    }
+
+    .form-signin .form-control:focus {
+      z-index: 2;
+    }
+
+    .form-signin input[type="email"] {
+      margin-bottom: -1px;
+      border-bottom-right-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+
+    .form-signin input[type="password"] {
+      margin-bottom: 10px;
+      border-top-left-radius: 0;
+      border-top-right-radius: 0;
+    }
+
+
+    .container_body{
+      position: relative;
+      color: white;
+      background-color:black ;
+      color:white;
+      width: 38%;
+      left: 32%;
+      top:0%;
+      height: 580px;
+    }
